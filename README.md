@@ -57,7 +57,8 @@ df.head()
 ```
 
 **📸 Screenshot:**
-![Upload Preview](./screenshots/1_data_upload_preview.png)
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/90336f78-58a7-4eca-9366-250c92ca3e21" />
+
 
 ### ✅ Step 2: Check Shape, Data Types, Missing Values
 
@@ -72,7 +73,8 @@ print(df.isnull().sum())
 * Noticed `pickup_datetime` was not in datetime format
 
 **📸 Screenshot:**
-![EDA Summary](./screenshots/2_eda_structure_missing.png)
+<img width="1920" height="832" alt="image" src="https://github.com/user-attachments/assets/557cc93c-efeb-4113-882f-fc855c22c808" />
+
 
 ### ✅ Step 3: Descriptive Statistics
 
