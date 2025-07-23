@@ -138,7 +138,8 @@ df['hour'] = df['pickup_datetime'].dt.hour
 * Created `is_weekend` boolean feature
 
 **📸 Screenshot:**
-![Feature Engineering](./screenshots/5_feature_engineering_preview.png)
+<img width="1782" height="824" alt="image" src="https://github.com/user-attachments/assets/56cf675e-3324-486c-ba46-97fdf9989c4a" />
+
 
 ---
 
@@ -154,7 +155,7 @@ df.to_csv('uber_cleaned.csv', index=False)
 * Ready to import into Power BI for visual analysis
 
 **📸 Screenshot:**
-![CSV Export](./screenshots/6_csv_download.png)
+![WhatsApp Image 2025-07-23 at 15 33 05_90511512](https://github.com/user-attachments/assets/3b302be8-e5c0-4422-8d76-ad074c987cb8)
 
 ---
 
