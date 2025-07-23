@@ -109,6 +109,7 @@ df.describe()
 * Removed trips with fare ≤ 0 and passenger count < 1 or > 6
 
 **📸 Screenshot:**
+<img width="1853" height="835" alt="image" src="https://github.com/user-attachments/assets/82b1b051-b6ac-4e50-8941-d3c4e1f9b4ac" />
 <img width="1920" height="814" alt="image" src="https://github.com/user-attachments/assets/cece6a2f-f61e-4d99-a1ba-b883760d7664" />
 
 
@@ -119,6 +120,7 @@ print(df.shape)
 ```
 
 **📈 Final Shape: 199,268 rows × 8 columns**
+**📸 Screenshot:**
 <img width="1920" height="205" alt="image" src="https://github.com/user-attachments/assets/cfc4c1af-9b71-4b81-a992-8022f0394f01" />
 
 ---
