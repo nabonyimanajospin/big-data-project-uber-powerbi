@@ -86,7 +86,8 @@ df.describe()
 * Passenger count outliers (0, very high values)
 
 **📸 Screenshot:**
-![Stats Summary](./screenshots/3_descriptive_stats.png)
+<img width="1920" height="787" alt="image" src="https://github.com/user-attachments/assets/67b36b74-d359-40b7-a0cc-1e3a974b184f" />
+
 
 ---
 
