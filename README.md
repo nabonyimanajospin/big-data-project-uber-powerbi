@@ -112,7 +112,8 @@ df.describe()
 * Removed trips with fare ≤ 0 and passenger count < 1 or > 6
 
 **📸 Screenshot:**
-![Cleaned Data Preview](./screenshots/4_cleaned_data_preview.png)
+<img width="1920" height="814" alt="image" src="https://github.com/user-attachments/assets/cece6a2f-f61e-4d99-a1ba-b883760d7664" />
+
 
 ### ✅ Step 5: Check Final Dataset Shape
 
