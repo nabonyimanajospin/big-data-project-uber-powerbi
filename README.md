@@ -119,6 +119,7 @@ print(df.shape)
 ```
 
 **📈 Final Shape: 199,268 rows × 8 columns**
+<img width="1920" height="205" alt="image" src="https://github.com/user-attachments/assets/cfc4c1af-9b71-4b81-a992-8022f0394f01" />
 
 ---
 
