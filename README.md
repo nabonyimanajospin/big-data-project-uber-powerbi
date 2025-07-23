@@ -1,6 +1,3 @@
-# big-data-project-uber-powerbi
-
-
 # 🎯 Uber Fares Dataset Analysis (Big Data Project)
 
 > A complete data analysis project for **INSY 8413 – Introduction to Big Data Analytics** using **Python (Pandas)** and **Power BI**
