@@ -1,5 +1,9 @@
 # 🎯 Uber Fares Dataset Analysis (Big Data Project)
 
+## 🔗 Kaggle Notebook
+
+📘 [Click here to view the full analysis notebook on Kaggle](https://www.kaggle.com/code/jospinnabonyimana/introduction-to-bid-data-kaggle/edit)
+
 > A complete data analysis project for **INSY 8413 – Introduction to Big Data Analytics** using **Python (Pandas)** and **Power BI**
 
 ![Tool](https://img.shields.io/badge/Tool-Python%20%7C%20Power%20BI-brightgreen)
